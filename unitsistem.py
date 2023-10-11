@@ -43,7 +43,7 @@ def hasil(operasi, angka1, angka2):
 
 def show():
     print('='*30)
-    print('Kalkulator')
+    print('Kalkulator Testing')
     print('1. Penjumlahan \t [+]')
     print('2. Pengurangan \t [-]')
     print('3. Perkalian \t [*]')
